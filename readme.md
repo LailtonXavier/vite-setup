@@ -1,6 +1,7 @@
 # Setup vite + eslint + prettier
 
 ## instal dependencies
+   - yarn vite@latest
    - eslint, prettier
      - yarn add -D @typescript-eslint/eslint-plugin @typescript-eslint/arser eslint eslint-config-prettier eslint-plugin-import slint-plugin-jsx-a11y eslint-plugin-prettier eslint-plugin-react slint-plugin-react-hooks prettier
      - create files:
